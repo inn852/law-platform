@@ -1,15 +1,7 @@
-치동고등학교 법과사회 수행 플랫폼 GitHub Edition
-
-업로드할 파일:
-- index.html
-- student.html
-- teacher.html
-
-학생용 주소:
-https://inn852.github.io/law-platform/
-
-교사용 주소:
-https://inn852.github.io/law-platform/teacher.html
-
-GitHub Pages 설정:
-Settings → Pages → Deploy from a branch → main / root → Save
+GitHub Edition V7.2
+- 교사용 페이지를 최신 7개 사례 기준으로 재작성
+- 교사용 평가기준표 추가
+- 사례 목록으로 돌아가기 버튼 추가
+- 등장인물 이름을 A/B/C 방식으로 통일
+- 문항 작성 도움말의 핵심쟁점 안내가 정답을 알려주지 않도록 수정
+- 학생용 AI 도우미의 핵심쟁점 설명도 개념 설명 중심으로 수정
